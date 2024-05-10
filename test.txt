@@ -22,4 +22,6 @@ Useful git command lines:
 - git status
 - git diff
 - git log # to see commit history
-- git log --oneline
+- git log --oneline # fore more concise commit history
+- git reset --soft <commit-id> # to go back to particular commit
+- test reset
