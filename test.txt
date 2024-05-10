@@ -18,5 +18,7 @@ Useful git command lines:
 - git config user.email # to know the current user name
 - git config --global user.email "new user email"
 - git init # this command is to initiate git in the current working directory
-- git add <filename>
+- git add <filename> # does change control/track
 - git status
+- git diff
+- git log
