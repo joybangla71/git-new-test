@@ -21,4 +21,5 @@ Useful git command lines:
 - git add <filename> # does change control/track
 - git status
 - git diff
-- git log
+- git log # to see commit history
+- git log --oneline
