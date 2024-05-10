@@ -1,0 +1,22 @@
+Hello this is Anik Faisal
+I am currently 33
+I am from Dhaka, Bangladesh
+I live in Colorado, USA
+
+I need git (a version control software/system) for the following reasons:
+- change tracking/control
+- version control
+- collaboration
+
+Other version control systems are gitlab etc.
+
+Useful git command lines:
+- git --version
+- git config --list
+- git config user.name # to know the current user name
+- git config --global user.name "new user name"
+- git config user.email # to know the current user name
+- git config --global user.email "new user email"
+- git init # this command is to initiate git in the current working directory
+- git add <filename>
+- git status
